@@ -1,4 +1,4 @@
-// White Rose Website - Anime.js Animations with Error Handling
+p// White Rose Website - Anime.js Animations with Error Handling
 document.addEventListener('DOMContentLoaded', function() {
     // Initialize with error handling
     try {

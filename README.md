@@ -10,6 +10,10 @@ A personal website project featuring modern web technologies and responsive desi
 - Modern CSS animations
 - Interactive elements
 
+## WIP Items
+
+- Contact form (Non-functional)
+
 ## Getting Started
 
 Simply visit [Ivory's Website](https://whiterose.dpdns.org/) to explore the project.
